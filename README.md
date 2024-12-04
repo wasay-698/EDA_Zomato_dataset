@@ -1,5 +1,5 @@
 
-# Zomato Dataset EDA (Exploratory Data Analysis)
+# 🚀Zomato Dataset EDA (Exploratory Data Analysis)🚀
 Exploratory Data Analysis (EDA) on a Zomato dataset involves analyzing restaurant-related data to gain insights into customer preferences, pricing, ratings, and cuisine trends. Here's an outline of key steps and insights typically drawn:
 
 ### 1. Dataset Overview
